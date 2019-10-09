@@ -1,0 +1,22 @@
+name: syncfusion_flutter_core
+description: Syncfusion Flutter Core is a dependent package for all the Syncfusion Flutter widgets. 
+version: 17.3.14
+author: Syncfusion <support@syncfusion.com>
+homepage: https://github.com/syncfusion/flutter-examples
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  utf: ^0.9.0+5
+  url_launcher: ^5.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  
